@@ -110,12 +110,14 @@ ol {
 	text-align: center;
 	padding: 0 110px;
 	margin-bottom: 110px;
+        border-radius: 20px
 }
 
 .section-title h2 {
 	font-size: 48px;
 	font-weight: 600;
 	margin-bottom: 25px;
+        border-radius: 20px;
 }
 
 .section-title p {
@@ -132,6 +134,7 @@ ol {
 .spad {
 	padding-top: 115px;
 	padding-bottom: 115px;
+        border-radius: 20px;
 }
 
 .text-white h1,
@@ -173,6 +176,7 @@ ol {
 	color: #fff;
 	cursor: pointer;
 	background: #d82a4e;
+        border-radius: 20px;
 }
 
 .site-btn:hover {
@@ -198,6 +202,7 @@ ol {
 	left: 0;
 	z-index: 999999;
 	background: #fff;
+border-radius: 20px;
 }
 
 .loader {
@@ -262,6 +267,7 @@ ol {
 	top: 0;
 	left: 0;
 	padding-top: 60px;
+border-radius: 20px;
 }
 
 .site-logo {
@@ -283,6 +289,7 @@ ol {
 	margin-left: 45px;
 	font-weight: 600;
 	padding: 20px 0 5px;
+border-radius: 20px;
 }
 
 .main-menu ul li a:hover {
@@ -327,6 +334,7 @@ ol {
 	float: left;
 	border: none;
 	font-size: 14px;
+border-radius: 20px;
 }
 
 .intro-newslatter .site-btn {
@@ -347,6 +355,7 @@ ol {
 	-webkit-transition: all 0.4s;
 	-o-transition: all 0.4s;
 	transition: all 0.4s;
+border-radius: 20px;
 }
 
 .categorie-item .ci-thumb {
@@ -389,6 +398,7 @@ ol {
 	background: #d82a4e;
 	padding-top: 60px;
 	padding-bottom: 50px;
+border-radius: 20px;
 }
 
 .search-warp .section-title {
@@ -410,6 +420,7 @@ ol {
 	border: none;
 	font-size: 14px;
 	background: #edf4f6;
+border-radius: 20px;
 }
 
 .course-search-form input[type=text]:focus,
@@ -443,12 +454,14 @@ ol {
 	font-size: 24px;
 	margin-bottom: 0;
 	text-align: center;
+border-radius: 20px;
 }
 
 .search-section.ss-other-page .section-title h2 span {
 	display: inline-block;
 	background: #d82a4e;
 	padding: 20px 60px 10px;
+border-radius: 20px;
 }
 
 .search-section.ss-other-page .course-search-form {
@@ -459,6 +472,7 @@ ol {
 .search-section.ss-other-page .course-search-form input[type=text]:focus,
 .search-section.ss-other-page .course-search-form input[type=email]:focus {
 	border-bottom: none;
+border-radius: 20px;
 }
 
 /*------------------
@@ -469,14 +483,17 @@ ol {
 	max-width: 1559px;
 	padding: 0 15px;
 	margin: 0 auto -30px;
+border-radius: 20px;
 }
 
 .course-item {
 	margin-bottom: 30px;
+border-radius: 20px;
 }
 
 .course-item .course-thumb {
 	height: 270px;
+border-radius: 20px;
 }
 
 .course-item .course-thumb .price {
@@ -487,30 +504,36 @@ ol {
 	display: inline-block;
 	padding: 13px 19px;
 	margin: 14px;
+border-radius: 20px;
 }
 
 .course-item .course-info {
 	background: #edf4f6;
+border-radius: 20px;
 }
 
 .course-item .course-info .course-text {
 	padding: 45px 33px 25px;
+border-radius: 20px;
 }
 
 .course-item .course-info .course-text h5 {
 	margin-bottom: 5px;
+border-radius: 20px;
 }
 
 .course-item .course-info .course-text .students {
 	font-size: 18px;
 	font-weight: 600;
 	color: #d82a4e;
+border-radius: 20px;
 }
 
 .course-item .course-info .course-author {
 	border-top: 1px solid #d4dee1;
 	padding: 14px 33px;
 	overflow: hidden;
+border-radius: 20px;
 }
 
 .course-item .course-info .course-author .ca-pic {
@@ -518,6 +541,7 @@ ol {
 	height: 44px;
 	border-radius: 50%;
 	float: left;
+border-radius: 20px;
 }
 
 .course-item .course-info .course-author p {
@@ -525,19 +549,23 @@ ol {
 	margin-bottom: 0;
 	padding-top: 7px;
 	font-weight: 600;
+border-radius: 20px;
 }
 
 .course-item .course-info .course-author p span {
 	color: #d82a4e;
+border-radius: 20px;
 }
 
 .course-item.featured-course {
 	position: relative;
 	margin-bottom: 97px;
+border-radius: 20px;
 }
 
 .course-item.featured-course:last-child {
 	margin-bottom: 30px;
+border-radius: 20px;
 }
 
 .course-item.featured-course:nth-child(2n) .course-thumb {
@@ -551,6 +579,7 @@ ol {
 	height: 100%;
 	left: 0;
 	top: 0;
+border-radius: 20px;
 }
 
 .course-item.featured-course .fet-note {
@@ -561,19 +590,24 @@ ol {
 	font-weight: 500;
 	padding: 4px 15px;
 	margin-bottom: 20px;
+border-radius: 20px;
 }
 
 .course-item.featured-course .course-info .course-text {
 	padding: 70px 33px 25px;
+border-radius: 20px;
+
 }
 
 .course-item.featured-course .course-info .course-text h5 {
 	margin-bottom: 20px;
+
 }
 
 .course-item.featured-course .course-info .course-author {
 	border-top: none;
 	padding: 14px 33px 60px;
+border-radius: 20px;
 }
 
 .course-filter {
@@ -581,6 +615,7 @@ ol {
 	text-align: center;
 	padding-top: 50px;
 	margin-bottom: 60px;
+border-radius: 20px;
 }
 
 .course-filter li {
@@ -595,11 +630,13 @@ ol {
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
+border-radius: 20px;
 }
 
 .course-filter li.mixitup-control-active {
 	color: #d82a4e;
 	border-bottom: 4px solid #d82a4e;
+border-radius: 20px;
 }
 
 /*------------------
@@ -623,6 +660,7 @@ ol {
 	right: 0;
 	top: 0;
 	z-index: 1;
+
 }
 
 .signup-warp {
@@ -633,6 +671,7 @@ ol {
 .contact-form {
 	background: #fff;
 	padding: 60px;
+border-radius: 20px;
 }
 
 .signup-form input[type=text],
@@ -650,6 +689,7 @@ ol {
 	font-size: 14px;
 	font-weight: 500;
 	background: #edf4f6;
+border-radius: 20px;
 }
 
 .signup-form input[type=text]:focus,
@@ -659,6 +699,7 @@ ol {
 .contact-form input[type=email]:focus,
 .contact-form textarea:focus {
 	border-bottom: 2px solid #d82a4e;
+border-radius: 20px;
 }
 
 .signup-form input[type=file],
@@ -671,6 +712,7 @@ ol {
 	padding-top: 23px;
 	padding-bottom: 15px;
 	height: 225px;
+border-radius: 20px;
 }
 
 .signup-form .file-up-btn,
@@ -686,15 +728,18 @@ ol {
 	clear: both;
 	text-align: center;
 	overflow: hidden;
+border-radius: 20px;
 }
 
 .signup-form .site-btn,
 .contact-form .site-btn {
 	padding: 17px 10px;
+border-radius: 20px;
 }
 
 .featured-courses {
 	padding-top: 67px;
+border-radius: 20px;
 }
 
 /*------------------
@@ -703,26 +748,31 @@ ol {
 
 .footer-section {
 	border-top: 3px solid #d82a4e;
+border-radius: 20px;
 }
 
 .footer-warp {
 	max-width: 1559px;
 	padding: 0 15px;
 	margin: 0 auto;
+border-radius: 20px;
 }
 
 .widget-item {
 	width: 20%;
 	padding: 0 15px;
+border-radius: 20px;
 }
 
 .widget-item h4 {
 	margin-bottom: 30px;
+border-radius: 20px;
 }
 
 .widget-item ul {
 	list-style: none;
 	padding-top: 30px;
+border-radius: 20px;
 }
 
 .widget-item ul li {
@@ -730,10 +780,12 @@ ol {
 	font-size: 14px;
 	font-weight: 500;
 	color: #878787;
+border-radius: 20px;
 }
 
 .widget-item ul li:last-child {
 	margin-bottom: 0;
+border-radius: 20px;
 }
 
 .widget-item ul a {
@@ -744,10 +796,12 @@ ol {
 	margin-bottom: 27px;
 	position: relative;
 	padding-left: 10px;
+border-radius: 20px;
 }
 
 .widget-item ul.contact-list li:last-child {
 	margin-bottom: 0;
+border-radius: 20px;
 }
 
 .widget-item ul.contact-list li:after {
@@ -759,10 +813,12 @@ ol {
 	top: 6px;
 	border-radius: 50%;
 	background: #d82a4e;
+border-radius: 20px;
 }
 
 .footer-newslatter {
 	padding-right: 38px;
+border-radius: 20px;
 }
 
 .footer-newslatter input[type=email] {
@@ -774,11 +830,13 @@ ol {
 	border: none;
 	font-size: 14px;
 	background: #edf4f6;
+border-radius: 20px;
 }
 
 .footer-newslatter .site-btn {
 	min-width: 143px;
 	margin-bottom: 20px;
+border-radius: 20px;
 }
 
 .footer-newslatter p {
@@ -792,6 +850,7 @@ ol {
 	background: #edf4f6;
 	padding: 20px 0;
 	margin-top: 50px;
+border-radius: 20px;
 }
 
 .footer-menu {
@@ -806,6 +865,7 @@ ol {
 .footer-menu li:last-child a {
 	padding-right: 0;
 	margin-right: 0;
+border-radius: 20px;
 }
 
 .footer-menu li:last-child a:after {
@@ -820,6 +880,7 @@ ol {
 	padding-right: 10px;
 	margin-right: 10px;
 	position: relative;
+border-radius: 20px;
 }
 
 .footer-menu li a:after {
@@ -835,6 +896,7 @@ ol {
 	font-size: 14px;
 	font-weight: 600;
 	color: #474747;
+border-radius: 20px;
 }
 
 /*------------------
@@ -848,6 +910,7 @@ ol {
 
 .site-breadcrumb {
 	padding-top: 215px;
+border-radius: 20px;
 }
 
 .site-breadcrumb a,
@@ -857,6 +920,7 @@ ol {
 	padding-right: 10px;
 	font-weight: 600;
 	font-size: 18px;
+border-radius: 20px;
 }
 
 .site-breadcrumb a {
@@ -883,6 +947,7 @@ ol {
 .course-meta-area {
 	background: #edf4f6;
 	padding: 35px 0;
+border-radius: 20px;
 }
 
 .course-meta-area .course-note {
@@ -893,12 +958,14 @@ ol {
 	font-weight: 500;
 	padding: 4px 15px;
 	margin-bottom: 20px;
+border-radius: 20px;
 }
 
 .course-metas {
 	padding-top: 50px;
 	margin-bottom: 45px;
 	display: table;
+border-radius: 20px;
 }
 
 .course-meta {
@@ -906,10 +973,12 @@ ol {
 	height: 100%;
 	border-right: 2px solid #c5ced0;
 	padding: 5px 50px;
+border-radius: 20px;
 }
 
 .course-meta:nth-child(1) {
 	padding-left: 0;
+border-radius: 20px;
 }
 
 .course-meta:nth-child(4) {
@@ -937,6 +1006,7 @@ ol {
 	margin-bottom: 0;
 	padding-top: 4px;
 	font-weight: 600;
+border-radius: 20px;
 }
 
 .course-meta .course-author p span {
@@ -965,15 +1035,18 @@ ol {
 	padding: 20px 30px;
 	background: #474747;
 	margin-right: 10px;
+border-radius: 20px;
 }
 
 .course-meta-area .buy-btn {
 	padding: 20px 40px;
+border-radius: 20px;
 }
 
 .course-preview {
 	padding-top: 37px;
 	margin-bottom: 55px;
+border-radius: 20px;
 }
 
 .course-list .cl-item {
@@ -1014,6 +1087,7 @@ ol {
 	font-size: 22px;
 	padding-top: 10px;
 	background: #d82a4e;
+border-radius: 20px;
 }
 
 /*------------------
@@ -1031,6 +1105,7 @@ ol {
 .blog-post h3 {
 	padding-top: 58px;
 	margin-bottom: 15px;
+border-radius: 20px;
 }
 
 .blog-post p {
@@ -1062,6 +1137,7 @@ ol {
 	right: 0;
 	top: calc(50% - 15px);
 	background: #c5ced0;
+border-radius: 20px;
 }
 
 .blog-post .blog-metas .blog-meta.author {
@@ -1078,6 +1154,7 @@ ol {
 	border-radius: 50%;
 	float: left;
 	margin-right: 5px;
+border-radius: 20px;
 }
 
 .blog-post .blog-metas .blog-meta a {
@@ -1183,6 +1260,7 @@ ol {
 .contact-form-warp {
 	background: #d82a4e;
 	padding: 45px 47px;
+border-radius: 20px;
 }
 
 .contact-form-warp .section-title {
